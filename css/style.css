@@ -1,0 +1,36 @@
+
+.logo img {
+    max-width: 100px; /* Ajustez la largeur maximale de votre logo selon vos besoins */
+    height: auto;
+}
+.navbar {
+    background-color: #FCF5ED;
+}
+.nav-item{
+    color: #0000;
+    font-weight: bold;
+}
+
+@media (max-width: 576px) {
+    .center-cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .center-cards .col-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+.caption button.btn-success {
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+}
+
+/*footer*/
+.text-center {
+	background-color: #fcf5ed;
+}
+

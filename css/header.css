@@ -1,0 +1,12 @@
+li.nav-item {
+    font-weight: bold;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #d300dc;
+    border-color: #d300dc;
+}
+.btn-outline-success {
+    color: #d300dc;
+    border-color: #d300dc;
+}
